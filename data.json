@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "item_name": "Black Wallet",
+    "category": "Personal Belongings",
+    "location_found": "Main Building Lobby",
+    "date_found": "2026-10-20",
+    "claimed": true
+  },
+  {
+    "id": 2,
+    "item_name": "Blue Umbrella",
+    "category": "Accessory",
+    "location_found": "Student Center",
+    "date_found": "2026-10-22",
+    "claimed": false
+  },
+  {
+    "id": 3,
+    "item_name": "USB Flash Drive",
+    "category": "Electronics",
+    "location_found": "Library Computer Lab",
+    "date_found": "2026-10-24",
+    "claimed": false
+  },
+  {
+    "id": 4,
+    "item_name": "Purse",
+    "category": "Bag",
+    "location_found": "Lab",
+    "date_found": "2026-10-26",
+    "claimed": true
+  },
+  {
+    "id": 5,
+    "item_name": "candy",
+    "category": "food",
+    "location_found": "refrigerator",
+    "date_found": "2026-10-26",
+    "claimed": false
+  }
+]
